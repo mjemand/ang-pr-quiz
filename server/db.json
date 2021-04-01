@@ -1,0 +1,107 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "címe 1",
+      "description": "sapien arcu sed augue aliquam erat volutpat in congue etiam",
+      "questions": [1, 2],
+      "active": false
+    },
+    {
+      "id": 2,
+      "title": "címe 2",
+      "description": "pharetra magna ac consequat metus sapien ut nunc vestibulum ante",
+      "questions": [3, 4],
+      "active": false
+    },
+    {
+      "id": 103,
+      "title": "címe 3",
+      "description": "mmm",
+      "questions": [5, 6],
+      "active": false
+    }
+  ],
+  "students": [
+    {
+      "id": 2,
+      "first_name": "Priscella",
+      "last_name": "Innes",
+      "email": "pinnes1@bloglovin.com",
+      "points": 0,
+      "active": false
+    },
+    {
+      "id": 3,
+      "first_name": "Carmelita",
+      "last_name": "Hellmer",
+      "email": "chellmer2@timesonline.co.uk",
+      "points": 0,
+      "active": true
+    },
+    {
+      "id": 52,
+      "first_name": "ddd",
+      "last_name": "www",
+      "email": "bsv@freemal.hu",
+      "points": 0,
+      "active": false
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is it?",
+      "answer": "whatever",
+      "points": 1,
+      "active": true
+    },
+    {
+      "id": 2,
+      "question": "What is that?",
+      "answer": "that ever",
+      "points": 1,
+      "active": true
+    },
+    {
+      "id": 3,
+      "question": "What are those?",
+      "answer": "those ever",
+      "points": 1,
+      "active": true
+    },
+    {
+      "id": 50,
+      "question": "What are these?",
+      "answer": "these ever",
+      "points": 1,
+      "active": true
+    }
+  ],
+  "bills": [
+    {
+      "id": 1,
+      "orderID": 1,
+      "amount": 1,
+      "status": "new"
+    },
+    {
+      "id": 2,
+      "orderID": 2,
+      "amount": 10,
+      "status": "paid"
+    },
+    {
+      "id": 3,
+      "orderID": 3,
+      "amount": 5,
+      "status": "new"
+    },
+    {
+      "id": 103,
+      "orderID": 1,
+      "amount": 3,
+      "status": "paid"
+    }
+  ]
+}
